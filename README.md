@@ -1,6 +1,8 @@
 # Qt5 Naughts and Crosses
 
-Also known as Tic Tac Toe
+Also known as Tic Tac Toe. Implemented using the Qt5 widgets library.
+
+-- Complete and working/functional --
 
 ## Compile & Run
 
